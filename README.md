@@ -30,10 +30,10 @@ To get a local copy up and running, follow these simple steps.
 3. Build the project and run it on an Android 13 compatible device or emulator.
 
 
-### Usage
+## Usage
 After installing the app, users can sign up as caregivers or patients. Enter the necessary information, such as name, email, and age, to create an account. Once logged in, the app's home screen will display the main features, including medical information access and emergency alerts.
 
-### Firebase Integration
+## Firebase Integration
 
 LifeAware leverages Firebase, a powerful platform for building mobile and web applications. This integration enables:
 
