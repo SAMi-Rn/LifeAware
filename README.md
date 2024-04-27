@@ -37,7 +37,7 @@ After installing the app, users can sign up as caregivers or patients. Enter the
 
 LifeAware leverages Firebase, a powerful platform for building mobile and web applications. This integration enables:
 
-- **Real-time Database: Store and sync data between users and devices in real-time.
-- **Authentication: Secure user authentication system that supports sign-in with emails, social media accounts, and more.
-- **Storage: Secure file uploading and downloading for users, powered by Google Cloud Storage.
-- **Security Rules: Configured Firebase security rules to protect the database and ensure data privacy.
+- **Real-time Database**: Store and sync data between users and devices in real-time.
+- **Authentication**: Secure user authentication system that supports sign-in with emails, social media accounts, and more.
+- **Storage**: Secure file uploading and downloading for users, powered by Google Cloud Storage.
+- **Security Rules**: Configured Firebase security rules to protect the database and ensure data privacy.
