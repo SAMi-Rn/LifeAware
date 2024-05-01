@@ -34,7 +34,6 @@ To get a local copy up and running, follow these simple steps.
 After installing the app, users can sign up as caregivers or patients. Enter the necessary information, such as name, email, and age, to create an account. Once logged in, the app's home screen will display the main features, including medical information access and emergency alerts.
 
 ## Firebase Integration
-
 LifeAware leverages Firebase, a powerful platform for building mobile and web applications. This integration enables:
 
 - **Real-time Database**: Store and sync data between users and devices in real-time.
